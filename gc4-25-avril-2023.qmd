@@ -40,6 +40,8 @@ format:
 
 ## Session 1 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
+<small>
+
 ::: {.panel-tabset}
 
 #### Chiffres-clés (première agrégation)
@@ -55,7 +57,7 @@ format:
 
 #### Retour sur les contenus - Echanges
 
-Le texte sélectionné contient des réflexions et des commentaires sur divers thèmes abordés lors de formations ou de sessions de travail. Les thèmes les plus fréquemment mentionnés sont les suivants :
+Les retours bruts comportent des réflexions et des commentaires sur divers thèmes abordés lors de la formation. Les thèmes les plus fréquemment mentionnés sont les suivants :
 
 - CUA (16 occurrences)
 - fonctions exécutives (15 occurrences)
@@ -91,15 +93,16 @@ Les commentaires portent sur des pistes et des outils pour améliorer la pratiqu
 
 #### Retour sur les contenus - Mise en pratique
 
-Résumés des dires des participant·es : 
 
-- Les sessions de formation ont permis aux participants de rafraîchir leurs connaissances et de découvrir de nouvelles pratiques pour mieux accompagner les élèves, en particulier ceux présentant des troubles du spectre autistique (TSA).
+Résumé des commentaires bruts des participant·es : 
+
+- Les sessions de formation ont permis aux participant·es de rafraîchir leurs connaissances et de découvrir de nouvelles pratiques pour mieux accompagner les élèves, en particulier ceux présentant des troubles du spectre autistique (TSA).
 
 - Les thèmes abordés incluent la gestion des émotions, les fonctions exécutives, la CUA (conception universelle de l'apprentissage), l'entretien motivationnel, le feedback, les projets pour les gestions de crise avec les groupes classes d'adolescents, etc.
 
-- Les participants ont pris des initiatives pour appliquer les connaissances acquises, tels que la création d'outils et de matériel pédagogique, la mise en place d'activités différenciées pour rendre les élèves plus autonomes, la réorganisation de l'espace de la classe, etc.
+- Les participant·es ont pris des initiatives pour appliquer les connaissances acquises, tels que la création d'outils et de matériel pédagogique, la mise en place d'activités différenciées pour rendre les élèves plus autonomes, la réorganisation de l'espace de la classe, etc.
 
-Occurrences:
+Occurrences :
 
 - Gestion des émotions: 10
 - Fonctions exécutives: 8
@@ -110,10 +113,9 @@ Occurrences:
 
 <!-- Source : Daily Notion du 24 avril 2023 : Jour 429 -->
 
-
 #### Retour qualité
 
-[source](https://www.dropbox.com/s/hejnb6xgutix35h/boucle.docx?dl=0)
+[rapport complet : cliquer ici](https://www.dropbox.com/s/hejnb6xgutix35h/boucle.docx?dl=0)
 
 ![](img/1.png)
 
@@ -125,7 +127,7 @@ Occurrences:
 
 ![](img/5.png)
 
-**5 forces :**
+**Forces - Agrégation en 5 points :**
 
 - La variété des modalités de participation et l'utilisation de Teams enregistrés ont été très appréciées.
 - Les intervenants étaient de grande qualité et intéressants, avec une grande variété d'intervenants différents.
@@ -133,7 +135,7 @@ Occurrences:
 - La formation a permis aux enseignants spécialisés de se rencontrer, d'échanger et de consolider leurs acquis, tout en mettant à jour leurs connaissances.
 - Les sujets abordés étaient variés, en lien avec la pratique professionnelle des participants, et pertinents pour améliorer leur pratique et leurs compétences professionnelles.
 
-**5 Points faibles**
+**Faiblesses - Agrégation en 5 points**
 
 - Beaucoup de théorie et de répétitions de notions déjà vues dans la formation initiale
 - Manque d'outils concrets et pratiques à appliquer dans la pratique
@@ -141,7 +143,7 @@ Occurrences:
 - Difficulté à faire des liens avec le travail sur le terrain pour certains thèmes
 - Formation trop lourde en termes de volume horaire
 
-**5 pistes: **
+**Pistes  - Agrégation en 5 points**
 
 - Proposer des outils concrets et des ressources facilement applicables en classe
 - Mieux coordonner les interventions des intervenants pour éviter les redites
@@ -163,6 +165,7 @@ Occurrences:
 
 :::
 
+</small>
 
 ## Session 2 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
